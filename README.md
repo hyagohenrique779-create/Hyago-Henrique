@@ -33,7 +33,7 @@ Atualmente, estou focado em desenvolver minhas habilidades em:
 
 Meu portfólio pessoal desenvolvido para apresentar minhas habilidades, projetos e conhecimentos em desenvolvimento web.
 
-🔗 Acessar meu portfólio⁠: file:///t%3A/INF05/Hyago/site_responsivo/index.html#container2
+🔗 Acessar meu portfólio⁠: (file:///t%3A/INF05/Hyago/site_responsivo/index.html#container2)
 
 💡 Em breve, novos projetos serão adicionados!
 
