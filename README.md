@@ -1,5 +1,3 @@
-Claro! 😎 Como é um README de portfólio, eu deixaria com uma aparência mais profissional, organizada e com emojis sem exagerar. Também corrigi “Portifólio” → “Portfólio”, “Técnico de Informática” e deixei as tecnologias em formato de badges.
-
 👨‍💻 Hyago Henrique
 
 🚀 Portfólio Pessoal
@@ -24,17 +22,8 @@ Atualmente, estou focado em desenvolver minhas habilidades em:
 
 * 🌐 Desenvolvimento Web
 * 💻 Programação
-* 🇺🇸 Inglês
 * 🧠 Lógica de Programação
 * 🛠️ Desenvolvimento de projetos
-
-⸻
-
-🛠️ Tecnologias
-
-💻 Desenvolvimento
-
-🔧 Ferramentas
 
 ⸻
 
@@ -44,7 +33,7 @@ Atualmente, estou focado em desenvolver minhas habilidades em:
 
 Meu portfólio pessoal desenvolvido para apresentar minhas habilidades, projetos e conhecimentos em desenvolvimento web.
 
-🔗 Acessar meu portfólio⁠￼
+🔗 Acessar meu portfólio⁠: file:///t%3A/INF05/Hyago/site_responsivo/index.html#container2
 
 💡 Em breve, novos projetos serão adicionados!
 
@@ -56,7 +45,7 @@ Meu portfólio pessoal desenvolvido para apresentar minhas habilidades, projetos
 * ⚡ JavaScript
 * 🗄️ Banco de Dados
 * 🧠 Lógica de Programação
-* 🇺🇸 Inglês
+
 * 🚀 Novas tecnologias
 
 ⸻
@@ -64,14 +53,6 @@ Meu portfólio pessoal desenvolvido para apresentar minhas habilidades, projetos
 🎯 Objetivos
 
 Meu objetivo é continuar evoluindo na área de tecnologia, desenvolver projetos cada vez melhores e construir uma carreira profissional na área de Desenvolvimento de Software. 💻🚀
-
-⸻
-
-📫 Contato
-
-📧 E-mail: seuemail@email.com
-💼 LinkedIn: Meu LinkedIn⁠￼
-🐙 GitHub: Hyago-Henrique⁠￼
 
 ⸻
 
